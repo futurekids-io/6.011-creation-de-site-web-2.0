@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+}
+
+.nav {
+    max-height: 50px;
+    width: 100%;
+    background-color: lightgrey;
+}
+
+.nav-list {
+    margin: 0;
+    height: inherit;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.list-el {
+    display: inline;
+    padding: 20px;
+}
+
+.list-el a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.list-el a:hover {
+    color: white;
+}
+
+.container {
+    margin: 100px 100px;
+}
+
+header {
+    height: 400px;
+    background-image: url('./img/fond.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    color: #FFF;
+    margin: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+
+footer {
+    background-color: #00CD99;
+    padding: 15px 15px 15px 15px;
+    color: #FFF;
+}

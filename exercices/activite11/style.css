@@ -1,0 +1,47 @@
+.ex1{
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 2s;
+}
+
+.ex1:hover {
+    width: 300px;
+}
+
+
+.ex2 {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    transition: width 2s;
+    transition-timing-function: ease-in-out;
+}
+
+.ex2:hover {
+    width: 300px;
+}
+
+.ex3 {
+    width: 100px;
+    height: 100px;
+    background: green;
+    transition: width 2s;
+    transition-delay: 0.5s;
+}
+
+.ex3:hover {
+    width: 300px;
+}
+
+.ex4 {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: background 2s, transform 2s;
+}
+
+.ex4:hover {
+    background: blue;
+    transform: rotate(180deg);
+}

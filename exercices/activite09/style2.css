@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+}
+
+.nav {
+    height: 100%;
+    width: 200px;
+    background-color: lightgrey;
+    position: fixed;
+}
+
+.nav-list {
+    list-style: none;
+    margin: 0;
+    height: inherit;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.list-el {
+    padding: 20px;
+}
+
+.list-el a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.list-el a:hover {
+    color: white;
+}
+
+header  {
+    margin-left: 200px;
+    height: 400px;
+    background-image: url('./img/fond.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+h1 {
+    color: white;
+    margin: 0;
+    text-align: center;
+}

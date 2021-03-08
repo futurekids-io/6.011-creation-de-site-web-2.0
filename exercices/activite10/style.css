@@ -1,0 +1,61 @@
+.ex1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: ex1;
+    animation-duration: 2s;
+}
+
+@keyframes ex1 {
+    from {background-color: red;}
+    to {background-color: blue;}
+}
+
+.ex2 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: red;
+    animation-name: ex2;
+    animation-duration: 4s;
+}
+
+@keyframes ex2 {
+    0%   {background-color: red; left:0px; top:0px;}
+    25%  {background-color: blue; left:0px; top:200px;}
+    50%  {background-color: green; left:200px; top:200px;}
+    75%  {background-color: yellow; left:200px; top:0px;}
+    100% {background-color: red; left:0px; top:0px;}
+}
+
+.ex3 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: red;
+    animation-name: ex3;
+    animation-duration: 2s;
+    animation-delay: 1s;
+}
+
+@keyframes ex3 {
+    0%   {background-color: red; left:0px;}
+    50%  {background-color: yellow; left:200px;}
+    100% {background-color: red; left:0px;}
+}
+
+.ex4 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: red;
+    animation-name: ex4;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes ex4 {
+    0%   {background-color: red; left:0px;}
+    50%  {background-color: yellow; left:200px;}
+    100% {background-color: red; left:0px;}
+}
