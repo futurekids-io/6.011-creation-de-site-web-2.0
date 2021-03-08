@@ -36,16 +36,16 @@ Le cours est enseigné au [Centre Futurekids](https://futurekids.io/contact/fr),
 
 ## Exercices
 
-- [Activité 1 : ](/exercices/activite01) 
+<!-- - [Activité 1 : ](/exercices/activite01) 
 - [Activité 2 : ](/exercices/activite02)
 - [Activité 3 : ](/exercices/activite03) 
 - [Activité 4 : ](/exercices/activite04) 
 - [Activité 5 : ](/exercices/activite05) 
-- [Activité 6 : ](/exercices/activite06) 
+- [Activité 6 : ](/exercices/activite06) -->
 - [Activité 7 : Mise en pratique du CSS](/exercices/activite07)
-- [Activité 8 : ](/exercices/activite08) 
-- [Activité 9 : ](/exercices/activite09) 
-- [Projet personnel](/exercices/projetpersonnel)
+- [Activité 8 : Mise en page avec CSS](/exercices/activite08) 
+- [Activité 9 : Site en 2 pages](/exercices/activite09) 
+<!-- - [Projet personnel](/exercices/projetpersonnel)  -->
 
 ### Facultatifs
 

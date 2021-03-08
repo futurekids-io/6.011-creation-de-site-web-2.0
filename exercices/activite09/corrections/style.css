@@ -1,0 +1,89 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0px;
+  margin-top: 40px; /* laisser la place pour le menu */
+  text-align: justify;
+}
+
+/* Menu */
+nav {
+  background : red;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  top: 0px;
+  width: 100%;
+}
+
+nav ul {
+  list-style-type: none;
+  max-width: 640px;
+  margin: 20px auto;
+}
+
+nav ul, nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  padding: 20px;
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+nav ul li a:hover {
+  background-color: grey;
+}
+
+/* Fin du menu */
+
+/* Header */
+header {
+  background-image: url('/images/nino-header.jpg');
+  background-size: cover;
+  height: 300px;
+}
+
+header h1 {
+  text-align: center;
+  padding-top: 130px;
+
+}
+
+/* Zone de contenu */
+
+.conteneur {
+  max-width: 640px;
+  margin: auto;
+}
+
+#premier{
+  border-left : solid 1px black;
+  padding-left: 10px;
+  margin-left: 10px;
+  font-style: italic;
+}
+
+img {
+  width: 100%;
+}
+
+#portrait {
+  max-width: 300px;
+}
+
+.medaille-or { color: gold}
+
+.medaille-argent { color: silver}
+
+.medaille-bronze { color: brown}
+
+/* Pied de page */
+footer {
+  font-size: 12px;
+  background-color: yellow;
+  padding: 10px;
+  text-align: center;
+}
