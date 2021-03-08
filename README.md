@@ -7,7 +7,7 @@
 - Maîtriser les langages HTML5 et CSS3
 - Être capable de créer des pages web valides ainsi que de les stylisées
 
-## Introduction
+## Introduction
 
 Dans ce cours, les élèves apprendront les langages HTML et CSS, langages informatique utilisés lors de la conception de sites web. Plusieurs exercices les aiderons à maîtriser ces langages pour enfin terminer par la création d’une site web de leur choix.
 
