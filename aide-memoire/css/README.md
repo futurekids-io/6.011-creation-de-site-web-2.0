@@ -3,17 +3,18 @@
 ***Ce document est en cours de rédaction***
 
 ## Plan
-- Syntaxe
-- Couleurs
-- Typographie
-- Arrière-plan
-- Bloc et bordure
-- Tableau
-- Positionnement
-- Liste
-- Sélecteurs
-- Animations
-- Transitions
+- [Syntaxe](#syntaxe)
+- [Couleurs](#couleurs)
+- [Typographie](#typographie)
+- [Arrière-plan](#arrière-plan)
+- [Bloc et bordure](#bloc-et-bordure)
+- [Tableau](#tableau)
+- [Positionnement](#positionnement)
+- [Liste](#liste)
+- [Sélecteurs](#sélecteurs)
+**Pour les plus avancé-e-s**
+- [Animations](#animations)
+- [Transitions](#transitions)
 
 ## Syntaxe
 ## Couleurs
@@ -30,7 +31,7 @@
 
 ```css
 @keyframes stretch {
-    /* declare animation actions here */
+    /* On déclare ici les actions de l'animation */
 }
 .element {
     animation-name: stretch;
