@@ -5,10 +5,10 @@ Dans ce cours, les élèves apprendront les langages **HTML** et **CSS**, langag
 Pour atteindre ce but, ils apprendront :
 
 - À utiliser un éditeur de code en ligne;
-- La synthaxe de base des languages HTML et CSS;
+- La syntaxe de base des languages HTML et CSS;
 - Les bonnes pratiques de la création de site web.
 
-Le cours est enseigné au [Centre Futurekids](https://futurekids.io/contact/fr), créé par [Futurekids](https://futurekids.io/), et adapté par [Mikaël Ruffieux](https://redox-prod.ch). 
+Le cours est enseigné au <a href="https://futurekids.io/contact/fr" target="_blank">Centre Futurekids</a>, créé par <a href="https://futurekids.io/" target="_blank">Futurekids</a>, et adapté par <a href="https://redox-prod.ch" target="_blank">Mikaël Ruffieux</a>.
 
 - [Plan](#plan)
 - [Outils](#outils)
@@ -51,7 +51,7 @@ Le cours est enseigné au [Centre Futurekids](https://futurekids.io/contact/fr),
 - [Activité 7 : Mise en pratique du CSS](/exercices/activite07)
 - [Activité 8 : Mise en page avec CSS](/exercices/activite08) 
 - [Activité 9 : Site en 2 pages](/exercices/activite09) 
-<!-- - [Projet personnel](/exercices/projetpersonnel)  -->
+- [Projet personnel](/exercices/projetpersonnel)
 
 ### Facultatifs
 
