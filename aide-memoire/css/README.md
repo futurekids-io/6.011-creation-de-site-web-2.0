@@ -59,12 +59,13 @@ h1, p, .maClass, #monIdentifiant {
 
 <table>
   <tr>
-    <td>Couleur du texte</td><td>color: red;</td>
+    <td>Couleur du texte</td><td>`color: red`</td>
   </tr>
   <tr>
-    <td>Couleur de fond</td><td>background-color: red;</td>
+    <td>Couleur de fond</td><td>`background-color: red`</td>
   </tr>
 </table>
+
 
 Les couleurs peuvent se noter de différentes manières :
 

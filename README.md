@@ -17,6 +17,8 @@ Le cours est enseigné au [Centre Futurekids](https://futurekids.io/contact/fr),
 
 ## Plan
 
+*à faire*
+
 1. Introduction au web + création de comptes repl.it
    2. Intro aide-mémoire
    2. Mon premier fichier HTML – Hello World
@@ -37,6 +39,8 @@ Le cours est enseigné au [Centre Futurekids](https://futurekids.io/contact/fr),
 - [Aide-mémoire CSS](/aide-memoire/css)
 
 ## Exercices
+
+*à compléter*
 
 <!-- - [Activité 1 : ](/exercices/activite01) 
 - [Activité 2 : ](/exercices/activite02)
