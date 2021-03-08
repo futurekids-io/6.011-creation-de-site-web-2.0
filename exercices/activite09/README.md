@@ -14,6 +14,8 @@ Pour cet exercice, nous allons reprendre vos projets personnels, et y implément
 - Une zone principale, avec du texte
 - Un pied de page, indiquant "Créé par Prénom Nom"
 
+[Corrigé de l'exercice](/exercices/activite09/corrections)
+
 ## Exemples de mise en page
 
 ### Page d'accueil (index.html)

@@ -9,3 +9,5 @@ Votre mission, si vous l'acceptez, sera de recréer la mise en page à partir du
 Vous pouvez commencer par créer un nouveau projet [repl.it](https://repl.it), et copier le contenu [du fichier HTML](/exercices/activite08/index.html) dans votre fichier index.html. 
 
 Vous pouvez maintenant commencer à remplir le fichier style.css de votre projet pour arriver au résultat ci-dessus. Bon travail !
+
+[Corrigé de l'exercice](/exercices/activite08/corrections)
