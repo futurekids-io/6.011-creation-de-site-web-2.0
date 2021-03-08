@@ -19,21 +19,13 @@
 
 ## Syntaxe
 ## Couleurs
-<style>
-.colors tr:nth-child(1) { background: red; }
-.colors tr:nth-child(2) { background: orange; }
-.colors tr:nth-child(3) { background: green; }
-</style>
 
-<div class="colors">
-    <table>
-        <tr>
-            <td></td><td>red</td>
-        </tr>
-    </table>
-</div>
-
-<iframe src="https://www.w3schools.com/colors/colors_picker.asp">
+<iframe src="https://www.w3schools.com/colors/colors_picker.asp" />
+<!-- blank line -->
+<figure class="iframe_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 <a href="https://www.w3schools.com/colors/colors_picker.asp" target="_blank">Le sélecteur de couleur du W3C</a>
 
