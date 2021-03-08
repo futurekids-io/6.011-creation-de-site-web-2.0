@@ -179,14 +179,14 @@ Pour trouver exactement la couleur dont vous avez besoin, vous pouvez utiliser <
 
 | Nom du paramètre | Description                                | Exemples                                                     |
 | ---------------- | ------------------------------------------ | ------------------------------------------------------------ |
-| font             | Réglage global d'une police de caractères. | font: bold 14px Arial;                                       |
-| font-family      | Choix de la police de caractères.          | font-family:  Georgia, serif;<br />font-family:  Arial, sans-serif; |
-| font-size        | Taille de la police de caractères.         | font-size: 1em;  font-size: 14px;                            |
-| font-style       | Style de la police                         | font-style: normal;<br />font-style: italic;<br />font-style: oblique; |
-| font-weight      | Epaisseur de la police                     | font-weight: normal;<br />font-weight: bold;<br />font-weight: bolder; |
-| text-decoration  | Soulignement ou surlignement.              | text-decoration: none;<br />text-decoration: underline;<br />text-decoration: line-through;<br />text-decoration: overline; |
-| font-variant     | Affichage en petites majuscules.           | font-variant: normal;<br />font-variant: small-caps;         |
-| text-transform   | Mise en majuscules/minuscules.             | text-transform: none;<br />text-transform: capitalize;<br />text-transform: uppercase;<br />text-transform: lowercase; |
+| font             | Réglage global d'une police de caractères. | `font: bold 14px Arial;`                                       |
+| font-family      | Choix de la police de caractères.          | `font-family:  Georgia, serif;`<br />`font-family:  Arial, sans-serif;` |
+| font-size        | Taille de la police de caractères.         | `font-size: 1em;`  `font-size: 14px;`                            |
+| font-style       | Style de la police                         | `font-style: normal;`<br />`font-style: italic;`<br />`font-style: oblique;` |
+| font-weight      | Epaisseur de la police                     | `font-weight: normal;`<br />`font-weight: bold;`<br />`font-weight: bolder;` |
+| text-decoration  | Soulignement ou surlignement.              | `text-decoration: none;`<br />`text-decoration: underline;`<br />`text-decoration: line-through;`<br />`text-decoration: overline;` |
+| font-variant     | Affichage en petites majuscules.           | `font-variant: normal;`<br />`font-variant: small-caps;`     |
+| text-transform   | Mise en majuscules/minuscules.             | `text-transform: none;`<br />`text-transform: capitalize;`<br />`text-transform: uppercase;`<br />`text-transform: lowercase;` |
 | text-align       | Alignement du texte                        | `text-align: left;`<br />`text-align: center;`<br />`text-align: right;`<br />`text-align: justify;` |
 | text-indent      | Décallage de la première ligne du texte    | `text-indent: 5px;`                                          |
 | line-height      | Hauteur des caractères                     | `line-height: normal;`  <br />`line-height: 12px;`           |
