@@ -19,7 +19,7 @@ Le cours est enseigné au <a href="https://futurekids.io/contact/fr" target="_bl
 
 *à faire*
 
-1. Introduction au web + création de comptes repl.it
+1. [Introduction au web + création de comptes repl.it](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours1/#1)
    2. Intro aide-mémoire
    2. Mon premier fichier HTML – Hello World
 4. Mise en page - intro aux balises de formatage
