@@ -33,6 +33,8 @@ Le cours est enseigné au [Centre Futurekids](https://futurekids.io/contact/fr),
 ## Outils
 
 - L'éditeur de code en ligne : [repl.it](https://repl.it/)
+- [Aide-mémoire HTML](/aide-memoire/html)
+- [Aide-mémoire CSS](/aide-memoire/css)
 
 ## Exercices
 
