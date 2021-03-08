@@ -36,20 +36,23 @@ Le cours est enseigné au [Centre Futurekids](https://futurekids.io/contact/fr),
 
 ## Exercices
 
-- Activité 1 : 
-- Activité 2 :
-- Activité 3 : 
-- Activité 4 : 
-- Activité 5 : 
-- Activité 6 : 
+- [Activité 1 : ](/exercices/activite01) 
+- [Activité 2 : ](/exercices/activite02)
+- [Activité 3 : ](/exercices/activite03) 
+- [Activité 4 : ](/exercices/activite04) 
+- [Activité 5 : ](/exercices/activite05) 
+- [Activité 6 : ](/exercices/activite06) 
 - [Activité 7 : Mise en pratique du CSS](/exercices/activite07)
-- Activité 8 : 
-- Activité 9 : 
-- Projet personnel
+- [Activité 8 : ](/exercices/activite08) 
+- [Activité 9 : ](/exercices/activite09) 
+- [Projet personnel](/exercices/projetpersonnel)
 
 ### Facultatifs
 
-- Activité 10 :  Animations CSS
-- Activité 11 : Transformation CSS
+- [Activité 10 :  Animations CSS](/exercices/activite10)
+- [Activité 11 : Transformation CSS](/exercices/activite11)
 
 ## Liens utiles
+
+- [W3Schools](https://www.w3schools.com/)
+- [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
