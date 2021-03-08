@@ -1,5 +1,14 @@
 # Aide-mémoire HTML 5
 
+## Plan
+- [Structure du document](#structure-du-document)
+- [Balises de formatage](#balises-de-formatage)
+- [Balises de contenu](#balises-de-contenu)
+- [Listes](#listes)
+- [Liens](#liens)
+- [Images](#images)
+- [Tableaux](#tableaux)
+
 ## Structure du document
 
 | Balise             | Description                                                  |
@@ -22,4 +31,14 @@
   </body>
 </html>
 ```
+
+## Balises de formatage
+
+| Balise     | Description       |
+| ---------- | :---------------- |
+| <b>...</b> | Texte en gras     |
+| <i>...</i> | Texte en italique |
+| <u>...</u> | Texte souligné    |
+
+
 
