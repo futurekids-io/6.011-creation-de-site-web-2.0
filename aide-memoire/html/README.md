@@ -11,12 +11,12 @@
 
 ## Structure du document
 
-| Balise             | Description                                                  |
-| ------------------ | :----------------------------------------------------------- |
-| <html>...</html>   | Doit apparaître au début et à la fin du document. Indique que le fichier est codé en HTML. |
-| <head>...</head>   | Contient des informations spécifiques à la page et qui ne sont pas affichées. |
-| <body>...</body>   | Tout ce qui doit apparaître dans la page web sera entre ces balises. |
-| <title>...</title> | Titre de la page qui est affiché dans l’onglet du navigateur. |
+| Balise                      | Description                                                  |
+| --------------------------- | :----------------------------------------------------------- |
+| ```html <html>...</html>``` | Doit apparaître au début et à la fin du document. Indique que le fichier est codé en HTML. |
+| <head>...</head>            | Contient des informations spécifiques à la page et qui ne sont pas affichées. |
+| <body>...</body>            | Tout ce qui doit apparaître dans la page web sera entre ces balises. |
+| <title>...</title>          | Titre de la page qui est affiché dans l’onglet du navigateur. |
 
 **Exemple**
 
@@ -34,11 +34,18 @@
 
 ## Balises de formatage
 
-| Balise     | Description       |
-| ---------- | :---------------- |
-| <b>...</b> | Texte en gras     |
-| <i>...</i> | Texte en italique |
-| <u>...</u> | Texte souligné    |
+```html
+<b>Cette balise affiche le texte en gras.</b>
+<i>Cette balise affiche le texte en italique.</i>
+<u>Et cette balise affiche le texte souligné.</u>
+```
 
+## Balises de contenu
 
+## Listes
 
+## Liens
+
+## Image
+
+## Tableaux
