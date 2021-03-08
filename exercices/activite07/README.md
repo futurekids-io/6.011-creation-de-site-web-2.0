@@ -1,5 +1,7 @@
 # Activité 7 : Mise en pratique du CSS
 
+Créer un nouveau repl sur [repl.it](www.repl.it), et remplacer le contenu du fichier index.html par [celui-ci](/index.html). Vérifiez que votre fichier HTML soit bien connecté avec votre fichier style.css, et créer les styles des éléments ci-dessous. Bon travail !
+
 ##Body
 
 Taille de police 16
