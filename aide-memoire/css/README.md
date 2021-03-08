@@ -16,6 +16,8 @@
 - [Animations](#animations)
 - [Transitions](#transitions)
 
+Pour encore plus d'informations sur le CSS, vous pouvez consulter la documentation du langage sur [le site de W3Schools](https://www.w3schools.com/css/default.asp).
+
 ## Créer un lien vers le fichier CSS
 
  Dans un fichier HMTL. Dans la balise head :

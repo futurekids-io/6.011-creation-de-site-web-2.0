@@ -9,6 +9,8 @@
 - [Images](#images)
 - [Tableaux](#tableaux)
 
+Pour encore plus d'informations sur le HTML, vous pouvez consulter la documentation du langage sur [le site de W3Schools](https://www.w3schools.com/html/default.asp).
+
 ## Structure du document
 
 | Balise                   | Description                                                  |
