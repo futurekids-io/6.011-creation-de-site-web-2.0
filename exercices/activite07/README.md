@@ -1,8 +1,8 @@
 # Activité 7 : Mise en pratique du CSS
 
-Créer un nouveau repl sur [repl.it](www.repl.it), et remplacer le contenu du fichier index.html par [celui-ci](/index.html). Vérifiez que votre fichier HTML soit bien connecté avec votre fichier style.css, et créer les styles des éléments ci-dessous. Bon travail !
+Créer un nouveau repl sur [repl.it](https://repl.it), et remplacer le contenu du fichier index.html par [celui-ci](/exercices/activite07/index.html). Vérifiez que votre fichier HTML soit bien connecté avec votre fichier style.css, et créer les styles des éléments ci-dessous. Bon travail !
 
-##Body
+## Body
 
 Taille de police 16
 
@@ -10,7 +10,7 @@ Police Arial
 
 Couleur de fond au choix mais claire
 
-##H1
+## H1
 
 Couleur de police rouge
 
@@ -20,7 +20,7 @@ Alignement horizontal au centre
 
 Famille de police fantaisie
 
-##H2
+## H2
 
 Famille de police avec serif
 
@@ -28,7 +28,7 @@ Couleur de police au choix
 
 Transformer en petites majuscules
 
-##Img
+## Img
 
 Taille maximale de largeur de 300 px
 
@@ -36,11 +36,11 @@ Marges automatiques
 
 Disposition en bloc
 
-##P
+## P
 
 Hauteur de ligne de 25px
 
-##Section
+## Section
 
 Largeur de 49%
 
@@ -50,16 +50,16 @@ Disposition en inline-block
 
 Alignement vertical en haut
 
-##Classe conteneur
+## Classe conteneur
 
 Marge à gauche et à droite de 100px
 
-##Classe game
+## Classe game
 
 Bord de 1px en noir
 
 Un alignement intérieur de 15px de tous les côtés
 
-##Titres à l’intérieur de la classe game
+## Titres à l’intérieur de la classe game
 
 Alignement du texte au centre
