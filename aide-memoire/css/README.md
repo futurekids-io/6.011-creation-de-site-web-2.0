@@ -181,7 +181,7 @@ Pour trouver exactement la couleur dont vous avez besoin, vous pouvez utiliser <
 | ---------------- | ------------------------------------------ | ------------------------------------------------------------ |
 | font             | Réglage global d'une police de caractères. | `font: bold 14px Arial;`                                       |
 | font-family      | Choix de la police de caractères.          | `font-family:  Georgia, serif;`<br />`font-family:  Arial, sans-serif;` |
-| font-size        | Taille de la police de caractères.         | `font-size: 1em;`  `font-size: 14px;`                            |
+| font-size        | Taille de la police de caractères.         | `font-size: 1em;`<br />`font-size: 14px;`                            |
 | font-style       | Style de la police                         | `font-style: normal;`<br />`font-style: italic;`<br />`font-style: oblique;` |
 | font-weight      | Epaisseur de la police                     | `font-weight: normal;`<br />`font-weight: bold;`<br />`font-weight: bolder;` |
 | text-decoration  | Soulignement ou surlignement.              | `text-decoration: none;`<br />`text-decoration: underline;`<br />`text-decoration: line-through;`<br />`text-decoration: overline;` |
