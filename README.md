@@ -42,7 +42,7 @@ Le cours est enseigné au [Centre Futurekids](https://futurekids.io/contact/fr),
 - Activité 4 : 
 - Activité 5 : 
 - Activité 6 : 
-- Activité 7 : Mise en pratique du CSS
+- [Activité 7 : Mise en pratique du CSS](/exercices/activite07)
 - Activité 8 : 
 - Activité 9 : 
 - Projet personnel
