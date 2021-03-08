@@ -1,1 +1,73 @@
 # Aide-mémoire CSS
+
+***Ce document est en cours de rédaction***
+
+## Plan
+- Syntaxe
+- Couleurs
+- Typographie
+- Arrière-plan
+- Bloc et bordure
+- Tableau
+- Positionnement
+- Liste
+- Sélecteurs
+- Animations
+- Transitions
+
+## Syntaxe
+## Couleurs
+## Typographie
+## Arrière-plan
+## Bloc et bordure
+## Tableau
+## Positionnement
+## Liste
+## Sélecteurs
+## Animations
+
+**Exemple**
+
+```css
+@keyframes stretch {
+    /* declare animation actions here */
+}
+.element {
+    animation-name: stretch;
+    animation-duration: 1.5s;
+    animation-timing-function: ease-out;
+    animation-delay: 0s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-fill-mode: none;
+}
+/* On peut aussi écrire la classe .element comme ceci : */
+.element {
+    animation:
+        stretch
+        1.5s
+        ease-out
+        0s
+        alternate
+        infinite
+        none
+        running;
+}
+```
+
+## Transitions
+
+**Exemple**
+
+```css
+div {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 2s;
+}
+
+div:hover {
+    width: 300px;
+}
+```

@@ -78,7 +78,7 @@
 
 | Balise                    | Description                                                  |
 | :------------------------ | :----------------------------------------------------------- |
-| ```<a href="#">...</a>``` | Cette balise est un lien. Dans le href il faut mettre un lien url ou un lien vers une autre page web locale. |
+| ```<a href="#">...</a>``` | Cette balise est un lien. Dans le *href* il faut mettre un lien url ou un lien vers une autre page web locale. |
 
 **Exemple**
 
@@ -91,7 +91,7 @@
 
 | Balise                          | Description                                                  |
 | :------------------------------ | :----------------------------------------------------------- |
-| ```<img src="..." alt="...">``` | Cette balise sert à afficher une image. Dans src il faut mettre l’adresse de l’image soit par un lien url soit par un lien en local. L’attribut alt est l’information qui s’affiche lorsque l’image ne se charge pas. |
+| ```<img src="..." alt="...">``` | Cette balise sert à afficher une image. Dans *src* il faut mettre l’adresse de l’image soit par un lien URL soit par un lien en local. L’attribut *alt* est l’information qui s’affiche lorsque l’image ne se charge pas. |
 
 **Exemple**
 
