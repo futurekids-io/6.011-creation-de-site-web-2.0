@@ -1,17 +1,20 @@
 # Création de site web 2.0
 
-## Objectifs pédagogiques pour le cours
-
-À la fin de ce cours, les élèves doivent être capables de :
-
-- Maîtriser les langages HTML5 et CSS3
-- Être capable de créer des pages web valides ainsi que de les stylisées
-
-## Introduction
+[objectifs du cours]
 
 Dans ce cours, les élèves apprendront les langages HTML et CSS, langages informatique utilisés lors de la conception de sites web. Plusieurs exercices les aiderons à maîtriser ces langages pour enfin terminer par la création d’une site web de leur choix.
 
-## Plans des leçons
+[éléments qui seront appris par les participants]
+
+Le cours est enseigné à ... et est créé par ...
+
+- [Plan](#plan)
+- [Outils](#outils)
+- [Exercices](#exercices)
+- [Liens utiles](#liens-utiles)
+- [Références](#references)
+
+## Plan
 
 1. Introduction au web + création de comptes repl.it
 2. Intro aide-mémoire
@@ -25,3 +28,11 @@ Dans ce cours, les élèves apprendront les langages HTML et CSS, langages infor
 10. Exercice CSS
 11. Menu CSS
 12. Animations
+
+## Outils
+
+## Exercices
+
+## Liens utiles
+
+## Références
