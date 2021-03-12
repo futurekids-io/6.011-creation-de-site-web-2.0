@@ -20,17 +20,17 @@ Le cours est enseigné au <a href="https://futurekids.io/contact/fr" target="_bl
 *à faire*
 
 1. [Introduction au web + création de comptes repl.it](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours1/#1)
-   2. Intro aide-mémoire
-   2. Mon premier fichier HTML – Hello World
-4. Mise en page - intro aux balises de formatage
-5. Mise en page – listes et tableaux
-6. Exercice html récapitulatif
-7. Exercice html récapitulatif
-8. Intro CSS
-9. Premier exercice CSS
-10. Exercice CSS
-11. Menu CSS
-12. Animations
+   1.1. Intro aide-mémoire
+   1.2. Mon premier fichier HTML – Hello World
+2. Mise en page - intro aux balises de formatage
+3. Mise en page – listes et tableaux
+4. Exercice html récapitulatif
+5. Exercice html récapitulatif
+6. Intro CSS
+7. [Premier exercice CSS](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours7/#1)
+8. [Exercice CSS](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours8/#1)
+9. [Menu CSS](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours9/#1)
+10. [Animations](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours10/#1)
 
 ## Outils
 
