@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&family=Source+Code+Pro&family=Source+Serif+Pro:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;800&family=Source+Code+Pro&family=Source+Serif+Pro:wght@300;400;700&display=swap');
 
-body { font-family: 'Source Serif Pro', serif; color: whitesmoke}
+body { font-family: 'Source Serif Pro', serif; color: black}
 
 h1, h2, h3 {
   font-family: 'Montserrat', sans-serif;
-  font-weight: 700;
+  font-weight: 800;
   text-transform: uppercase;
-  letter-spacing: 8px;
+  letter-spacing: 7px;
 }
 h4 {
   font-family: 'Montserrat', sans-serif;
@@ -14,9 +14,19 @@ h4 {
   text-transform: uppercase;
   letter-spacing: 2px;
 }
-.remark-container, .remark-slide-content { background-color: #2c2c2c; }
-.remark-slide-scaler {
-  box-shadow: none;
-  -webkit-box-shadow: none;
-}
+.remark-container { background-color: #d4d4d4; }
+
+.remark-slide-content {background-color: white;}
+
 .remark-code, .remark-inline-code { font-family: 'Source Code Pro', monospace; }
+
+.unstyled-table {
+  width: 100%;
+}
+
+.secondary-color { color:rgb(45, 189, 239) }
+
+.red { color: red;}
+.green { color: green;}
+.orange { color: orange;}
+
