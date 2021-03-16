@@ -58,10 +58,11 @@ img {
 
 a {
   text-decoration: none;
+  color:rgb(45, 189, 239) 
 }
 a:hover {
   background-color: #d4d4d4;
 }
 a:visited {
-  color: inherit;
+  color:rgb(45, 189, 239) 
 }
