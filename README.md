@@ -29,7 +29,7 @@ Le cours est enseigné au <a href="https://futurekids.io/contact/fr" target="_bl
 6. Introduction au CSS-->
 7. [Premier exercice CSS](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours7/#1)
 8. [La mise en page avec CSS](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours8/#1)
-9. [Les menus avec CSS](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours9/#1)
+9. [Les menus et les pseudo-classes CSS](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours9/#1)
 10. [Animer ses pages avec CSS](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours10/#1)
 
 ## Outils
@@ -50,7 +50,7 @@ Le cours est enseigné au <a href="https://futurekids.io/contact/fr" target="_bl
 - [Activité 6 : ](/exercices/activite06) -->
 - [Activité 7 : Les bases du CSS](/exercices/activite07)
 - [Activité 8 : Mise en page avec CSS](/exercices/activite08) 
-- [Activité 9 : Site en 2 pages](/exercices/activite09) 
+- [Activité 9 : Créez vos menus](/exercices/activite09) 
 - [Projet personnel](/exercices/projetpersonnel)
 
 ### Facultatifs
