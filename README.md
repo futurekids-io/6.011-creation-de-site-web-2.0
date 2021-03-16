@@ -19,15 +19,17 @@ Le cours est enseigné au <a href="https://futurekids.io/contact/fr" target="_bl
 
 *à compléter*
 
-<!--1. [Introduction au web + création de comptes repl.it](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours1/#1)<br/>
+<!--
+1. [Introduction au web + création de comptes repl.it](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours1/#1)<br/>
    1.1. Intro aide-mémoire<br/>
    1.2. Mon premier fichier HTML – Hello World<br/>
 2. Mise en page - intro aux balises de formatage
 3. Mise en page – listes et tableaux
 4. Exercice HTML récapitulatif
 5. Exercice HTML récapitulatif
-6. Introduction au CSS-->
-7. [Premier exercice CSS](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours7/#1)
+6. Introduction au CSS
+-->
+7. [Identifiants, classes et couleurs](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours7/#1)
 8. [La mise en page avec CSS](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours8/#1)
 9. [Les menus et les pseudo-classes CSS](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours9/#1)
 10. [Animer ses pages avec CSS](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours10/#1)
@@ -42,12 +44,14 @@ Le cours est enseigné au <a href="https://futurekids.io/contact/fr" target="_bl
 
 *à compléter*
 
-<!-- - [Activité 1 : ](/exercices/activite01) 
+<!-- 
+- [Activité 1 : ](/exercices/activite01) 
 - [Activité 2 : ](/exercices/activite02)
 - [Activité 3 : ](/exercices/activite03) 
 - [Activité 4 : ](/exercices/activite04) 
 - [Activité 5 : ](/exercices/activite05) 
-- [Activité 6 : ](/exercices/activite06) -->
+- [Activité 6 : ](/exercices/activite06) 
+-->
 - [Activité 7 : Les bases du CSS](/exercices/activite07)
 - [Activité 8 : Mise en page avec CSS](/exercices/activite08) 
 - [Activité 9 : Créez vos menus](/exercices/activite09) 
