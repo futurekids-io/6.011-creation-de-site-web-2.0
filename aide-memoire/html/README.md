@@ -89,7 +89,7 @@ Pour encore plus d'informations sur le HTML, vous pouvez consulter la documentat
 <a href="www.google.com" target="_blank">Ce lien est un lien externe, il mène vers un autre site internet, on y ajoute donc l'attribut target</a>
 ```
 
-## Image
+## Images
 
 | Balise                          | Description                                                  |
 | :------------------------------ | :----------------------------------------------------------- |

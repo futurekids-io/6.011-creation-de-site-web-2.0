@@ -51,6 +51,8 @@ class: middle
   <img style="max-height: 200px; width: auto;" src="../sources_cours/img/cours9_margin-padding.png" />
 </div>
 
+[Aide-mémoire CSS : Bloc et bordure](https://github.com/futurekids-io/6.011-creation-de-site-web-2.0/tree/main/aide-memoire/css#bloc-et-bordure)
+
 <small>Source image : <a href="https://miro.medium.com/max/725/1*FqGQIGmGdW5EetfS3HFkvA.png" target="_blank">Medium.com</a></small>
 ---
 
