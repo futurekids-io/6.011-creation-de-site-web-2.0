@@ -66,3 +66,15 @@ Le cours est enseigné au <a href="https://futurekids.io/contact/fr" target="_bl
 
 - [W3Schools](https://www.w3schools.com/)
 - [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
+
+## Les projets des étudiants
+
+### 2020
+
+[Enes](https://enes-projet.enesilenk.repl.co)
+[Ozan](https://projet-ozan.ozandadevren.repl.co)
+[Thierry](https://projetthierry.thierryhenri.repl.co)
+[Mohammad](https://mohamad-premiere.futurekids.repl.co)
+[Sheyda](https://projet-sheyda.sheyda1381sh.repl.co)
+[Shaolin](https://Wiki-GW2-V100.shaolin2006.repl.co)
+[Matin](https://projetMatin.eliot0.repl.co)
