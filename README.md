@@ -69,7 +69,7 @@ Le cours est enseigné au <a href="https://futurekids.io/contact/fr" target="_bl
 
 ## Les projets des étudiants
 
-### 2020
+### 2021
 
 - [Enes](https://enes-projet.enesilenk.repl.co)
 - [Ozan](https://projet-ozan.ozandadevren.repl.co)
