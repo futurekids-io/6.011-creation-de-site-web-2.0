@@ -73,10 +73,10 @@ Le cours est enseigné au <a href="https://futurekids.io/contact/fr" target="_bl
 
 [Lien vers le formulaire](https://docs.google.com/forms/d/e/1FAIpQLSfk-7oGOEKbNG5534tQYfX6uz3Mgw1t_CzvXht5ad717Eq4wQ/viewform)
 
-- [Enes](https://enes-projet.enesilenk.repl.co)
+- [Enes](https://ProjetEnes.enesilenk.repl.co)
 - [Ozan](https://projet-ozan.ozandadevren.repl.co)
 - [Thierry](https://projetthierry.thierryhenri.repl.co)
 - [Mohammad](https://mohamad-premiere.futurekids.repl.co)
 - [Sheyda](https://projet-sheyda.sheyda1381sh.repl.co)
 - [Shaolin](https://Wiki-GW2-V100.shaolin2006.repl.co)
-- [Matin](https://projetMatin.eliot0.repl.co)
+- [Matin 1](https://projetMatin.eliot0.repl.co) [Matin 2](https://exercice9.eliot0.repl.co)
