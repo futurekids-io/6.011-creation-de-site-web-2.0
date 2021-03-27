@@ -28,8 +28,6 @@ class: middle
   <img style="max-height: 200px; width: auto;" src="../sources_cours/img/cours9_margin-padding.png" />
 </div>
 
-[Aide-mémoire CSS : Bloc et bordure](https://github.com/futurekids-io/6.011-creation-de-site-web-2.0/tree/main/aide-memoire/css#bloc-et-bordure)
-
 <small>Source image : <a href="https://miro.medium.com/max/725/1*FqGQIGmGdW5EetfS3HFkvA.png" target="_blank">Medium.com</a></small>
 
 ---
@@ -68,13 +66,13 @@ a:active { /* Lien sélectionné */
 ---
 # Les <span class="secondary-color">animations</span> en CSS
 
-Une animation en CSS permet de modifier progressivement l'apparence d'un élément.
+Une animation en CSS permet de modifier progressivement l'apparence d'un élément. [Aide-mémoire](https://github.com/futurekids-io/6.011-creation-de-site-web-2.0/tree/main/aide-memoire/css#animations)
 
 <div id="div"></div>
 <style>
 #div {
-width: 100px;
-height: 100px;
+width: 50px;
+height: 50px;
 position: relative;
 background-color: red;
 animation-name: example;
@@ -87,10 +85,27 @@ animation-duration: 2s;
 }
 </style>
 
+```css
+#div {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 2s;
+}
+@keyframes example {
+  0% {background-color: red; left:0px;}
+  50% {background-color: yellow; left:200px;}
+  100% {background-color: red; left:0px;}
+}
+
+```
+
 ---
 class: center, middle
 
-<h1>À vos projets ! </h1>
+<h1 class="secondary-color">À vos projets ! </h1>
 
 
 ???
