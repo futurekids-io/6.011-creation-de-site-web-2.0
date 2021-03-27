@@ -103,6 +103,16 @@ animation-duration: 2s;
 ```
 
 ---
+# Rappel sur <span class="secondary-color">vos projets</span>
+
+- Un menu
+- Si possible, au minimum 2 pages
+- Une zone de contenu principale
+- Des images
+- Un pied de page avec votre Prénom Nom
+- ... et tout ce que **vous** avez envie de mettre sur votre site 
+
+---
 class: center, middle
 
 <h1 class="secondary-color">À vos projets ! </h1>
