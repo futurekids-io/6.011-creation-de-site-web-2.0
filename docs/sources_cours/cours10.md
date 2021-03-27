@@ -113,6 +113,21 @@ animation-duration: 2s;
 - ... et tout ce que **vous** avez envie de mettre sur votre site 
 
 ---
+
+# Feedback sur le <span class="secondary-color">cours</span>
+
+Afin d'avoir votre avis sur le cours, vous trouverez le lien vers un questionnaire sur la page du cours.
+
+- Seriez-vous motivé.e.s à continuer ce cours, dans un futur proche ?
+- *Would you like to continue immediately this course ?*
+
+- Qu'est-ce que vous aimeriez apprendre par la suite ?
+- *What would you like to learn next ?*
+
+- Pourquoi est-ce que vous aimeriez en apprendre plus dans le domaine du web ?
+- *Why would you want to learn further ?*
+
+---
 class: center, middle
 
 <h1 class="secondary-color">À vos projets ! </h1>
