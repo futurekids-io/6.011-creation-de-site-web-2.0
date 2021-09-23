@@ -103,6 +103,7 @@ animation-duration: 2s;
 ```
 
 ---
+
 # Rappel sur <span class="secondary-color">vos projets</span>
 
 - Un menu

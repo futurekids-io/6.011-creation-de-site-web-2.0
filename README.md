@@ -17,18 +17,14 @@ Le cours est enseigné au <a href="https://futurekids.io/contact/fr" target="_bl
 
 ## Plan
 
-*à compléter*
-
-<!--
 1. [Introduction au web + création de comptes repl.it](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours1/#1)<br/>
    1.1. Intro aide-mémoire<br/>
    1.2. Mon premier fichier HTML – Hello World<br/>
-2. Mise en page - intro aux balises de formatage
-3. Mise en page – listes et tableaux
-4. Exercice HTML récapitulatif
-5. Exercice HTML récapitulatif
-6. Introduction au CSS
--->
+2. [Mise en page - intro aux balises de formatage](https://drive.google.com/file/d/1FXJp9usEHBFash-N53f6ibaOw0CBzWDI/view?usp=sharing)
+3. [Mise en page – listes et tableaux](https://drive.google.com/file/d/1tl0gSpN6nIeXCyhE6AcmcbtrMu8u3Ao4/view?usp=sharing)
+4. [Exercice HTML récapitulatif](https://drive.google.com/file/d/15d8VwhS_7NdeJ-bosib75MRQQsufA4iX/view?usp=sharing)
+5. [Exercice HTML récapitulatif](https://drive.google.com/file/d/1_zzL0RmN5cn-DInNxBz8rxLTAKQweOKT/view?usp=sharing)
+6. [Introduction au CSS](https://drive.google.com/file/d/1EGaVyl-0f8l6GB6jK9zAWXeYAqiOMw72/view?usp=sharing)
 7. [Identifiants, classes et couleurs](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours7/#1)
 8. [La mise en page avec CSS](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours8/#1)
 9. [Les menus et les pseudo-classes CSS](https://futurekids-io.github.io/6.011-creation-de-site-web-2.0/cours9/#1)
