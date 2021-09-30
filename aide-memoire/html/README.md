@@ -56,11 +56,11 @@ Pour encore plus d'informations sur le HTML, vous pouvez consulter la documentat
 
 ## Listes
 
-| Balise                                    | Description                                                  |
-| :---------------------------------------- | :----------------------------------------------------------- |
-| ```<h1>...</h1>``` ... ```<h6>...</h6>``` | Titre. Disponible en 6 niveau différent. Chaque niveau a une taille et une épaisseur différente. H1 est le plus au niveau et h6 le plus petit. |
-| ```<p>...</p>```                          | Cette balise est utilisée pour organiser des paragraphes dans un texte. |
-| ```<div>...</div>```                      | Cette balise est un conteneur générique. Elle permet de créer des sections. |
+| Balise             | Description                                                  |
+| :----------------- | :----------------------------------------------------------- |
+| ```<ul>...</ul>``` | Balise de liste, créant une liste non-ordonnée, ou liste à puce. |
+| ```<ol>...</ol>``` | Balise de liste, créant une liste ordonnée, ou liste numérotée : 1. , 2. , 3. ... |
+| ```<li>...</li>``` | Élément de liste. Doit se trouver à l'intérieur d'une balise `<ul>` ou `<ol>`. |
 
 **Exemple**
 
