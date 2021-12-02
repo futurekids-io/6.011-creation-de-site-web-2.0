@@ -75,7 +75,7 @@ Le cours est enseigné au <a href="https://futurekids.io/contact/fr" target="_bl
 - [Shaolin](https://Wiki-GW2-V100.shaolin2006.repl.co)
 - [Matin 1](https://projetMatin.eliot0.repl.co) [Matin 2](https://exercice9.eliot0.repl.co)
 
-### 2021 - trimestre 1
+### 2021-2022 | trimestre 1
 
 - [Rafaël](https://juniorspanishsearchservice.firehackyt1.repl.co/)
 - [Diego](https://night.rikozolo.repl.co/)
